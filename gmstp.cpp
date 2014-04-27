@@ -1,5 +1,0 @@
-/*
-Optimizacion Heuristica
-Problema GMSTP
-Algoritmo genetico
-*/

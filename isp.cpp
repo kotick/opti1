@@ -1,5 +1,0 @@
-/*
-Optimizacion Heuristica
-Problema ISP
-Algoritmo genetico
-*/

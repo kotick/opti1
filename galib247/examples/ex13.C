@@ -37,7 +37,7 @@ float NumbersObjective(GAGenome &);
 
 int
 main(int argc, char *argv[])
-{
+{ 
   cout << "Example 13\n\n";
   cout << "This program runs a GA-within-GA.  The outer level GA tries to\n";
   cout << "match the pattern read in from a file.  The inner level GA is\n";
